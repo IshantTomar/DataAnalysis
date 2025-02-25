@@ -15,8 +15,8 @@ import numpy as np
 # uniform_data = np.random.uniform(1,3,(4,3))
 # print(uniform_data)
 
-n1 = np.array([10,20,30,40,10])
-n2 = np.array([30,60,10,80,'q','w', 10])
+# n1 = np.array([10,20,30,40,10])
+# n2 = np.array([30,60,10,80,'q','w', 10])
 # print(np.intersect1d(n1, n2, assume_unique=True))
 # print(np.setdiff1d(n2, n1))
 
@@ -25,6 +25,6 @@ n2 = np.array([30,60,10,80,'q','w', 10])
 # print(np.argmin(n1))
 # print(np.argmax(n1))
 
-print(np.mean(n1))
-print(np.median(n1))
-print(sum(n1))
+# print(np.mean(n1))
+# print(np.median(n1))
+# print(sum(n1))
