@@ -21,7 +21,7 @@ import numpy as np
 # print(np.setdiff1d(n2, n1))
 
 # print(n1 + 2)
-
+# pull test
 # print(np.argmin(n1))
 # print(np.argmax(n1))
 
