@@ -31,11 +31,11 @@ import numpy as np
 # # Calculate the n-th order discrete difference along the given axis
 
 # # Calculate the sum of all columns in a 2D NumPy array
-arr_2d = np.array([[1,2,3], [4,5,6],
-                   [8,9,10], [11,12,13]])
-
-for i in range(0, len(arr_2d[0])):
-    add = 0
-    for j in range(0, len(arr_2d)):
-        add += arr_2d[j][i]
-    print(add)
+# arr_2d = np.array([[1,2,3], [4,5,6],
+#                    [8,9,10], [11,12,13]])
+#
+# for i in range(0, len(arr_2d[0])):
+#     add = 0
+#     for j in range(0, len(arr_2d)):
+#         add += arr_2d[j][i]
+#     print(add)
