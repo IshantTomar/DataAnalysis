@@ -1,0 +1,13 @@
+Finding the k smallest values of a NumPy array
+How to get the n-largest values of an array using NumPy?
+Sort the values in a matrix
+Multiply 2d numpy array corresponding to 1d array
+Computes the inner product of two arrays
+Compute the nth percentile of the NumPy array
+Calculate the n-th order discrete difference along the given axis
+Calculate the sum of all columns in a 2D NumPy array
+Change the case to lowercase of elements of an array
+Join String by a separator
+Check if two same shaped string arrays one by one
+Count the number of substrings in an array
+Find the lowest index of the substring in an array

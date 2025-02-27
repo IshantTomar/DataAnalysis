@@ -29,3 +29,8 @@ import numpy as np
 # print(np.median(n1))
 # print(sum(n1))
 # more test
+
+# arr_2d = np.array([[1,2,3], [4,5,6]])
+# print(np.diff(arr_2d, axis=0)) #--> [[3 3 3]]
+# print(np.diff(arr_2d, axis=1)) #--> [[1 1]
+#                                   #    [1 1]]
