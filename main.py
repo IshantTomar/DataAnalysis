@@ -34,3 +34,13 @@ import numpy as np
 # print(np.diff(arr_2d, axis=0)) #--> [[3 3 3]]
 # print(np.diff(arr_2d, axis=1)) #--> [[1 1]
 #                                   #    [1 1]]
+import nbformat
+import json
+
+# Replace 'path/to/your/notebook.ipynb' with the actual path to your notebook
+with open('./Netflix_dataset.ipynb', 'r') as f:
+    notebook = json.load(f)
+
+# Count the number of cells
+cell_count = len(notebook['cells'])
+print(f"The notebook has {cell_count} cells.")
