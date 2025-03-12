@@ -38,7 +38,7 @@ import nbformat
 import json
 
 # Replace 'path/to/your/notebook.ipynb' with the actual path to your notebook
-with open('./Netflix_dataset.ipynb', 'r') as f:
+with open('./Project (1).ipynb', 'r') as f:
     notebook = json.load(f)
 
 # Count the number of cells
